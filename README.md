@@ -13,13 +13,13 @@ Campaign results are tabulated and the user is provided with a report of survey 
  ![Main View](https://github.com/miadugas/surveyme/blob/main/app_001.png)
 
 ## Technology Used
-
+Google OAuth, NodeJS, ExpressJS, React & Redux, MongoDB, PassportJS, Stripe
 
 
 <hr>
 
 ### Additional Styling & Non-Technical Frameworks
-
+Redux Form, Email Provider (TBD)
 
 
 <hr>
