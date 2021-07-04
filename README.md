@@ -4,8 +4,9 @@
 <hr>
 
 ## Description
-A feedback collection application for small business owners.
-
+A feedback collection application for small business owners. User (Owner) buys credits and does not have to signup for a subscription based service. 
+Once credits are purchased, the user may create an email campaign survey to a list of customers that they have entered.
+Campaign results are tabulated and the user is provided with a report of survey responses.
 
 <hr>
 
