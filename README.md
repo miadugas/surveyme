@@ -9,7 +9,7 @@ A feedback collection application for small business owners.
 
 <hr>
 
- <!-- ![Main View](https://github.com/miadugas/svelte_ecomm/blob/main/black_mirror.png) -->
+ ![Main View](https://github.com/miadugas/surveyme/blob/main/app_001.png)
 
 ## Technology Used
 
