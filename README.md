@@ -19,7 +19,7 @@ Google OAuth, NodeJS, ExpressJS, React & Redux, MongoDB, PassportJS, Stripe paym
 <hr>
 
 ### Additional Styling & Non-Technical Frameworks
-Redux Form, Email Provider (TBD)
+Redux Forms, SendGrid
 
 
 <hr>
