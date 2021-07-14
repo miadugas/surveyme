@@ -15,6 +15,8 @@ Campaign results are tabulated and the user is provided with a report of survey 
 
  ![Main View](https://github.com/miadugas/surveyme/blob/main/prod1.png)
 
+ <hr>
+
   ![Main View](https://github.com/miadugas/surveyme/blob/main/prod2.png)
 
 ## Technology Used
