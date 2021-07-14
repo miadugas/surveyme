@@ -17,7 +17,7 @@ Campaign results are tabulated and the user is provided with a report of survey 
 
  <hr>
 
-  ![Main View](https://github.com/miadugas/surveyme/blob/main/prod2.png)
+  ![Main View](https://github.com/miadugas/surveyme/blob/main/prodview.png)
 
 ## Technology Used
 Google OAuth, NodeJS, ExpressJS, React & Redux, MongoDB, PassportJS, Stripe payments
